@@ -119,3 +119,7 @@ def Logout(request):
 
 def Req(request):
     return redirect('/main/index/')
+
+
+def Requirem(request):
+    return redirect('/main/index/')
